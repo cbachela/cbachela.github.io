@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Cyril Bachelard"
+title: "First Name Last Name"
 ---
 
-Welcome.
+Hello
