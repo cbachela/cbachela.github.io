@@ -1,4 +1,6 @@
-title: "Cyril Bachela"
-description: "Personal website and blog"
+title: "First Name Last Name"
+description: "Personal website and blogs"
 markdown: kramdown
+kramdown:
+  math_engine: mathjax
 theme: minima
